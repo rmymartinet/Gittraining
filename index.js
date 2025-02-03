@@ -22,4 +22,4 @@ function removeDuplicates(arr) {
   return arr;
 }
 
-removeDuplicates([1, 2, 2, 4, 4, 6, 7, 8, 9]); // [1, 2, 4, 6, 7, 8, 9]fvfdgdf
+removeDuplicates([1, 2, 2, 4, 4, 6, 7, 8, 9]); // [1, 2, 4, 6, 7, 8, 9]
